@@ -1,4 +1,4 @@
-## Diego Ferreira, Engenheiro de software líder na Zyriz
+## Diego Ferreira
 
 <div align="center">
   <a href="https://github.com/diegoamferreira">
